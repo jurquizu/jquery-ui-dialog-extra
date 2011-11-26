@@ -13,3 +13,10 @@ P.S. Thanks to Joan Molina from http://www.uic.es/ for iframe bug-report
 and fix.
 
 P.P.S. Dont look into the code. I know it is weird (:
+
+---
+
+I will maintain this project started by Mark A. Prisyazhnyuk as I find it 
+useful to enhance UI Dialog.
+
+Joan Molina
